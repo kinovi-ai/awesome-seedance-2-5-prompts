@@ -1104,7 +1104,7 @@ Transform the plain two-person martial-arts video <<<video_1_1>>> into an empty-
 <a id="video-download-list"></a>
 ## 📥 Video Download List
 
-This repository includes preview [images](images) in images, compressed archive videos under videos/, target filenames in [video-download-list.txt](video-download-list.txt), structured case data in [data/seedance-2-5-cases.json](data/seedance-2-5-cases.json), and direct source URLs in [video-urls.json](video-urls.json). The full playable gallery is available in the [Seedance 2.5 video prompt examples](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts) article.
+This repository includes preview [images](images) in images, target filenames in [video-download-list.txt](video-download-list.txt), structured case data in [data/seedance-2-5-cases.json](data/seedance-2-5-cases.json), and direct source URLs in [video-urls.json](video-urls.json). Videos are linked from the [Seedance 2.5 video prompt examples](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts) article instead of being stored in this repository.
 
 ---
 
