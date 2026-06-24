@@ -120,7 +120,7 @@ const enStrings = {
   contribute2: 'Add or improve prompts and media links',
   contribute3: 'Keep source attribution clear',
   contribute4: 'Submit a pull request',
-  licenseBody: 'This project is licensed under the Creative Commons Attribution 4.0 International License.',
+  licenseBody: 'This project is licensed under the MIT License.',
   ack1: 'Volcano Ark for the Seedance 2.5 promotion page and public case materials',
   ack2: 'YouMind-OpenLab/awesome-seedance-2-prompts for the original README structure reference',
   ack3: 'The Seedance and creative AI communities for prompt engineering inspiration',
@@ -168,7 +168,7 @@ const zhStrings = {
   contribute2: '添加或改进提示词和媒体链接',
   contribute3: '保持清晰的来源标注',
   contribute4: '提交 pull request',
-  licenseBody: '本项目采用 Creative Commons Attribution 4.0 International License 许可。',
+  licenseBody: '本项目采用 MIT License 许可。',
   ack1: '感谢火山方舟提供 Seedance 2.5 推广页面和公开案例素材',
   ack2: '感谢 YouMind-OpenLab/awesome-seedance-2-prompts 提供原始 README 结构参考',
   ack3: '感谢 Seedance 与创意 AI 社区在提示词工程上的启发',
@@ -832,7 +832,7 @@ async function buildReadme(lang) {
   body.push(`<a id="license"></a>`);
   body.push(`## 📄 ${strings.license}`);
   body.push('');
-  body.push(strings.licenseBody.replace('Creative Commons Attribution 4.0 International License', '[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)'));
+  body.push(strings.licenseBody.replace('MIT License', '[MIT License](LICENSE)'));
   body.push('');
   body.push('---');
   body.push('');
