@@ -1,22 +1,28 @@
+[![English](https://img.shields.io/badge/English-Current-brightgreen)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-Click%20to%20View-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-Click%20to%20View-lightgrey)](README_zh-TW.md)
+
+---
+
 # 🎬 Awesome Seedance 2.5 Video Prompts
 
 A curated collection of high-quality video generation prompts for ByteDance's Seedance 2.5, covering cinematic storytelling, product ads, reference-based generation, multilingual typography, and controlled video editing.
 
 ---
 
+<a id="table-of-contents"></a>
 ## 📖 Table of Contents
 
-- [🌐 Video Examples](#-video-examples)
-- [🤔 What is Seedance 2.5?](#-what-is-seedance-25)
-- [⭐ Featured Prompts](#-featured-prompts)
-- [🎬 All Prompts](#-all-prompts)
-- [📥 Video Download List](#-video-download-list)
-- [🤝 How to Contribute](#-how-to-contribute)
-- [📄 License](#-license)
-- [🙏 Acknowledgements](#-acknowledgements)
+- [🌐 Video Examples](#video-examples)
+- [🤔 What is Seedance 2.5?](#what-is-seedance-25)
+- [⭐ Featured Prompts](#featured-prompts)
+- [🎬 All Prompts](#all-prompts)
+- [📥 Video Download List](#video-download-list)
+- [🤝 How to Contribute](#how-to-contribute)
+- [📄 License](#license)
+- [🙏 Acknowledgements](#acknowledgements)
 
 ---
 
+<a id="video-examples"></a>
 ## 🌐 Video Examples
 
 <div align="center">
@@ -27,32 +33,33 @@ A curated collection of high-quality video generation prompts for ByteDance's Se
 
 ---
 
+<a id="what-is-seedance-25"></a>
 ## 🤔 What is Seedance 2.5?
 
-**Seedance 2.5** is ByteDance's next-generation Seedance video model for longer, richer, higher-resolution, and more controllable AI video production. It is especially useful for cinematic prompts, product videos, multi-reference scenes, and targeted video edits. You can try these workflows with the [Seedance 2.5 AI video generator](https://kinovi.ai/models/seedance2-5).
+Seedance 2.5 is ByteDance's next-generation Seedance video model for longer, richer, higher-resolution, and more controllable AI video production. It is especially useful for cinematic prompts, product videos, multi-reference scenes, and targeted video edits. You can try these workflows with the [Seedance 2.5 AI video generator](https://kinovi.ai/models/seedance2-5).
 
 **Key Features:**
-- 🎬 **30-second native video** — Create longer single-clip outputs for ads, product demos, educational clips, and story-driven sequences.
-- 🧩 **Rich multimodal references** — Guide generations with character images, product materials, style boards, motion clips, audio direction, brand assets, and 3D references.
-- ✂️ **Controllable video editing** — Adjust backgrounds, replace products, change models, or refine local details while preserving the larger shot.
-- 📐 **Production-oriented quality** — Built around smoother motion, stronger character consistency, better prompt adherence, and 4K-oriented workflows.
-- 🔁 **Flexible workflows** — Supports text-to-video, image-to-video, video-to-video, multi-reference generation, first/last-frame keyframes, and targeted edits.
+- 🎬 **30-second native video — Create longer single-clip outputs for ads, product demos, educational clips, and story-driven sequences.**
+- 🧩 **Rich multimodal references — Guide generations with character images, product materials, style boards, motion clips, audio direction, brand assets, and 3D references.**
+- ✂️ **Controllable video editing — Adjust backgrounds, replace products, change models, or refine local details while preserving the larger shot.**
+- 📐 **Production-oriented quality — Built around smoother motion, stronger character consistency, better prompt adherence, and 4K-oriented workflows.**
+- 🔁 **Flexible workflows — Supports text-to-video, image-to-video, video-to-video, multi-reference generation, first/last-frame keyframes, and targeted edits.**
 
 ---
 
+<a id="featured-prompts"></a>
 ## 🔥 Featured Prompts
 
 > ⭐ Hand-picked hero cases from the Seedance 2.5 promotion page
 
 ### No. 1: Steampunk Clockwork Odyssey
 
-![中文](https://img.shields.io/badge/lang-中文-red)
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold)
 
 #### 📖 Description
 
-Steampunk Clockwork Odyssey is a Seedance 2.5 first screen case translated from the Doubao Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Steampunk Clockwork Odyssey is a Seedance 2.5 first screen case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
 
 #### 📝 Prompt
 
@@ -85,13 +92,12 @@ Technical specifications: hyper-real mechanical textures, rich brass and gold to
 
 ### No. 2: Crystal Ball Match-Cut Brand Film
 
-![中文](https://img.shields.io/badge/lang-中文-red)
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold)
 
 #### 📖 Description
 
-Crystal Ball Match-Cut Brand Film is a Seedance 2.5 first screen case translated from the Doubao Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Crystal Ball Match-Cut Brand Film is a Seedance 2.5 first screen case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
 
 #### 📝 Prompt
 
@@ -130,13 +136,12 @@ Edit tightly to the energetic BGM rhythm with beat-matched transitions. Use top-
 
 ### No. 3: Window-to-Eye Concept Film
 
-![中文](https://img.shields.io/badge/lang-中文-red)
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold)
 
 #### 📖 Description
 
-Window-to-Eye Concept Film is a Seedance 2.5 first screen case translated from the Doubao Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Window-to-Eye Concept Film is a Seedance 2.5 first screen case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
 
 #### 📝 Prompt
 
@@ -167,17 +172,16 @@ The image holds on the human eye close-up. The eye closes and the screen goes bl
 
 ---
 
+<a id="all-prompts"></a>
 ## 🎬 All Prompts
 
 ### No. 1: Steampunk Clockwork Odyssey
 
-![中文](https://img.shields.io/badge/lang-中文-red)
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
-![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold)
 
 #### 📖 Description
 
-Steampunk Clockwork Odyssey is a Seedance 2.5 first screen case translated from the Doubao Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Steampunk Clockwork Odyssey is a Seedance 2.5 first screen case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
 
 #### 📝 Prompt
 
@@ -210,13 +214,11 @@ Technical specifications: hyper-real mechanical textures, rich brass and gold to
 
 ### No. 2: Crystal Ball Match-Cut Brand Film
 
-![中文](https://img.shields.io/badge/lang-中文-red)
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
-![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold)
 
 #### 📖 Description
 
-Crystal Ball Match-Cut Brand Film is a Seedance 2.5 first screen case translated from the Doubao Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Crystal Ball Match-Cut Brand Film is a Seedance 2.5 first screen case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
 
 #### 📝 Prompt
 
@@ -255,13 +257,11 @@ Edit tightly to the energetic BGM rhythm with beat-matched transitions. Use top-
 
 ### No. 3: Window-to-Eye Concept Film
 
-![中文](https://img.shields.io/badge/lang-中文-red)
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
-![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold)
 
 #### 📖 Description
 
-Window-to-Eye Concept Film is a Seedance 2.5 first screen case translated from the Doubao Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Window-to-Eye Concept Film is a Seedance 2.5 first screen case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
 
 #### 📝 Prompt
 
@@ -294,12 +294,11 @@ The image holds on the human eye close-up. The eye closes and the screen goes bl
 
 ### No. 4: Multilingual Creative Typography Loop
 
-![中文](https://img.shields.io/badge/lang-中文-red)
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
 #### 📖 Description
 
-Multilingual Creative Typography Loop is a Seedance 2.5 user works case translated from the Doubao Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Multilingual Creative Typography Loop is a Seedance 2.5 user works case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
 
 #### 📝 Prompt
 
@@ -342,12 +341,11 @@ A 15-second seamless looping creative typography animation video, 4K, 30 fps. Ea
 
 ### No. 5: Haute Couture Dream Bokeh Film
 
-![中文](https://img.shields.io/badge/lang-中文-red)
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
 #### 📖 Description
 
-Haute Couture Dream Bokeh Film is a Seedance 2.5 user works case translated from the Doubao Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Haute Couture Dream Bokeh Film is a Seedance 2.5 user works case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
 
 #### 📝 Prompt
 
@@ -382,12 +380,11 @@ Overall style: a 30-second couture brand-level visual blockbuster with strong ci
 
 ### No. 6: Deep-Sea Coral Reef Jellyfish Scene
 
-![中文](https://img.shields.io/badge/lang-中文-red)
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
 #### 📖 Description
 
-Deep-Sea Coral Reef Jellyfish Scene is a Seedance 2.5 user works case translated from the Doubao Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Deep-Sea Coral Reef Jellyfish Scene is a Seedance 2.5 user works case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
 
 #### 📝 Prompt
 
@@ -418,12 +415,11 @@ A deep-sea coral reef scene in a tropical underwater world with a blue overall t
 
 ### No. 7: Floating Desert Museum Cinematic Film
 
-![中文](https://img.shields.io/badge/lang-中文-red)
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
 #### 📖 Description
 
-Floating Desert Museum Cinematic Film is a Seedance 2.5 user works case translated from the Doubao Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Floating Desert Museum Cinematic Film is a Seedance 2.5 user works case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
 
 #### 📝 Prompt
 
@@ -454,12 +450,11 @@ Cinematic and premium. A golden desert at dawn. A minimalist white art-museum bu
 
 ### No. 8: Retro Suede Boots Brand Concept Film
 
-![中文](https://img.shields.io/badge/lang-中文-red)
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
 #### 📖 Description
 
-Retro Suede Boots Brand Concept Film is a Seedance 2.5 user works case translated from the Doubao Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Retro Suede Boots Brand Concept Film is a Seedance 2.5 user works case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
 
 #### 📝 Prompt
 
@@ -492,12 +487,11 @@ The middle section shows boots landing on mirror-like wet sand, footsteps turnin
 
 ### No. 9: Peking Opera Heritage Short Film
 
-![中文](https://img.shields.io/badge/lang-中文-red)
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
 #### 📖 Description
 
-Peking Opera Heritage Short Film is a Seedance 2.5 user works case translated from the Doubao Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Peking Opera Heritage Short Film is a Seedance 2.5 user works case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
 
 #### 📝 Prompt
 
@@ -528,12 +522,11 @@ A short film about the intangible cultural heritage of Peking Opera, cinematic, 
 
 ### No. 10: Oceanic Civilization Epic Sci-Fi Film
 
-![中文](https://img.shields.io/badge/lang-中文-red)
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
 #### 📖 Description
 
-Oceanic Civilization Epic Sci-Fi Film is a Seedance 2.5 user works case translated from the Doubao Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Oceanic Civilization Epic Sci-Fi Film is a Seedance 2.5 user works case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
 
 #### 📝 Prompt
 
@@ -569,12 +562,11 @@ Theme: "The Fallen Theater: Oceanic Civilization". Epic sci-fi, Dune x Interstel
 
 ### No. 11: Mechanical Flower Bloom Brand Film
 
-![中文](https://img.shields.io/badge/lang-中文-red)
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
 #### 📖 Description
 
-Mechanical Flower Bloom Brand Film is a Seedance 2.5 user works case translated from the Doubao Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Mechanical Flower Bloom Brand Film is a Seedance 2.5 user works case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
 
 #### 📝 Prompt
 
@@ -605,12 +597,11 @@ Theme: "Mechanical Flower Bloom". Highlight the video-generation model's strengt
 
 ### No. 12: Silk Road Pomegranate Folk Animation
 
-![中文](https://img.shields.io/badge/lang-中文-red)
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
 #### 📖 Description
 
-Silk Road Pomegranate Folk Animation is a Seedance 2.5 user works case translated from the Doubao Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Silk Road Pomegranate Folk Animation is a Seedance 2.5 user works case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
 
 #### 📝 Prompt
 
@@ -646,12 +637,11 @@ Shot 5, final stillness (23-30s): Pomegranate juice fills a cup. The surface of 
 
 ### No. 13: One-Shot Rooms With Shifting Worlds
 
-![中文](https://img.shields.io/badge/lang-中文-red)
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
 #### 📖 Description
 
-One-Shot Rooms With Shifting Worlds is a Seedance 2.5 reference generation case translated from the Doubao Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+One-Shot Rooms With Shifting Worlds is a Seedance 2.5 reference generation case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
 
 #### 📝 Prompt
 
@@ -681,19 +671,17 @@ One continuous shot. The camera smoothly follows a person in a black coat (refer
 
 - **Source:** [Volcano Ark Seedance 2.5 Promotion Page](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 - **Category:** Reference Generation
-- **Tab:** 30s连贯直出
 - **Reference Inputs:** 8
 
 ---
 
 ### No. 14: Three-Thousand-Year Football History
 
-![中文](https://img.shields.io/badge/lang-中文-red)
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
 #### 📖 Description
 
-Three-Thousand-Year Football History is a Seedance 2.5 reference generation case translated from the Doubao Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Three-Thousand-Year Football History is a Seedance 2.5 reference generation case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
 
 #### 📝 Prompt
 
@@ -721,19 +709,17 @@ Finale: the ball lands at the center of a global field where people from differe
 
 - **Source:** [Volcano Ark Seedance 2.5 Promotion Page](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 - **Category:** Reference Generation
-- **Tab:** 30s连贯直出
 - **Reference Inputs:** 3
 
 ---
 
 ### No. 15: Capsule Coffee Machine Tutorial
 
-![中文](https://img.shields.io/badge/lang-中文-red)
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
 #### 📖 Description
 
-Capsule Coffee Machine Tutorial is a Seedance 2.5 reference generation case translated from the Doubao Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Capsule Coffee Machine Tutorial is a Seedance 2.5 reference generation case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
 
 #### 📝 Prompt
 
@@ -764,19 +750,17 @@ A 30-second tutorial video for installing and using a capsule coffee machine.
 
 - **Source:** [Volcano Ark Seedance 2.5 Promotion Page](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 - **Category:** Reference Generation
-- **Tab:** 30s连贯直出
 - **Reference Inputs:** 6
 
 ---
 
 ### No. 16: Lonely Crowd One-Shot Through Seasons
 
-![中文](https://img.shields.io/badge/lang-中文-red)
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
 #### 📖 Description
 
-Lonely Crowd One-Shot Through Seasons is a Seedance 2.5 reference generation case translated from the Doubao Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Lonely Crowd One-Shot Through Seasons is a Seedance 2.5 reference generation case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
 
 #### 📝 Prompt
 
@@ -806,19 +790,18 @@ Core instruction: a 26-second one-shot narrative short film, stable follow shot,
 
 - **Source:** [Volcano Ark Seedance 2.5 Promotion Page](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 - **Category:** Reference Generation
-- **Tab:** 更多参考输入
+- **Input Video:** [Reference video](https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/part1/tab2/group1/reference1.mp4)
 - **Reference Inputs:** 17
 
 ---
 
 ### No. 17: Fruit Cookie Commercial
 
-![中文](https://img.shields.io/badge/lang-中文-red)
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
 #### 📖 Description
 
-Fruit Cookie Commercial is a Seedance 2.5 reference generation case translated from the Doubao Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Fruit Cookie Commercial is a Seedance 2.5 reference generation case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
 
 #### 📝 Prompt
 
@@ -842,19 +825,18 @@ Bright, colorful advertising-film style. Fruit-flavored cookies are the main sub
 
 - **Source:** [Volcano Ark Seedance 2.5 Promotion Page](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 - **Category:** Reference Generation
-- **Tab:** 更多参考输入
+- **Input Video:** [Reference video](https://ark-common-storage-prod-cn-beijing.tos-cn-beijing.volces.com/presets/experience/gen_video/model-promotion/seedance-2-5/part1/tab2/group2/reference2.mp4)
 - **Reference Inputs:** 7
 
 ---
 
 ### No. 18: Desert Horned Lizard Grapefruit Ad
 
-![中文](https://img.shields.io/badge/lang-中文-red)
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
 #### 📖 Description
 
-Desert Horned Lizard Grapefruit Ad is a Seedance 2.5 reference generation case translated from the Doubao Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Desert Horned Lizard Grapefruit Ad is a Seedance 2.5 reference generation case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
 
 #### 📝 Prompt
 
@@ -885,19 +867,17 @@ Desert Horned Lizard Grapefruit Ad is a Seedance 2.5 reference generation case t
 
 - **Source:** [Volcano Ark Seedance 2.5 Promotion Page](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 - **Category:** Reference Generation
-- **Tab:** 秒级画面掌控
 - **Reference Inputs:** 1
 
 ---
 
 ### No. 19: Youth Racing Short Film
 
-![中文](https://img.shields.io/badge/lang-中文-red)
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
 #### 📖 Description
 
-Youth Racing Short Film is a Seedance 2.5 reference generation case translated from the Doubao Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Youth Racing Short Film is a Seedance 2.5 reference generation case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
 
 #### 📝 Prompt
 
@@ -926,19 +906,17 @@ A 30-second cinematic youth racing story in 2D animation style. The protagonist 
 
 - **Source:** [Volcano Ark Seedance 2.5 Promotion Page](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 - **Category:** Reference Generation
-- **Tab:** 秒级画面掌控
 - **Reference Inputs:** 1
 
 ---
 
 ### No. 20: FPV Multilingual Landscape Flight
 
-![中文](https://img.shields.io/badge/lang-中文-red)
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
 #### 📖 Description
 
-FPV Multilingual Landscape Flight is a Seedance 2.5 reference generation case translated from the Doubao Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+FPV Multilingual Landscape Flight is a Seedance 2.5 reference generation case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
 
 #### 📝 Prompt
 
@@ -973,19 +951,17 @@ A one-shot FPV drone first-person video, 33 seconds of continuous long take with
 
 - **Source:** [Volcano Ark Seedance 2.5 Promotion Page](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 - **Category:** Reference Generation
-- **Tab:** 多语种表达
 - **Reference Inputs:** 11
 
 ---
 
 ### No. 21: Global Flower Thank-You Film
 
-![中文](https://img.shields.io/badge/lang-中文-red)
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
 #### 📖 Description
 
-Global Flower Thank-You Film is a Seedance 2.5 reference generation case translated from the Doubao Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Global Flower Thank-You Film is a Seedance 2.5 reference generation case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
 
 #### 📝 Prompt
 
@@ -1016,19 +992,17 @@ Live-action realistic style, fast editing, cinematic, 4K, 24 fps, warm natural l
 
 - **Source:** [Volcano Ark Seedance 2.5 Promotion Page](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 - **Category:** Reference Generation
-- **Tab:** 多语种表达
 - **Reference Inputs:** 9
 
 ---
 
 ### No. 22: Energy Bow Jungle Edit
 
-![中文](https://img.shields.io/badge/lang-中文-red)
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
 #### 📖 Description
 
-Energy Bow Jungle Edit is a Seedance 2.5 video editing case translated from the Doubao Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Energy Bow Jungle Edit is a Seedance 2.5 video editing case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
 
 #### 📝 Prompt
 
@@ -1059,12 +1033,11 @@ Keep the character, jungle environment, camera movement, composition, action rhy
 
 ### No. 23: Drone Removal Safari Cleanup
 
-![中文](https://img.shields.io/badge/lang-中文-red)
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
 #### 📖 Description
 
-Drone Removal Safari Cleanup is a Seedance 2.5 video editing case translated from the Doubao Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Drone Removal Safari Cleanup is a Seedance 2.5 video editing case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
 
 #### 📝 Prompt
 
@@ -1095,12 +1068,11 @@ Remove the drone and the lower-left foreground rail/vehicle edge from <<<video_1
 
 ### No. 24: Medieval Duel Style Transfer
 
-![中文](https://img.shields.io/badge/lang-中文-red)
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
 #### 📖 Description
 
-Medieval Duel Style Transfer is a Seedance 2.5 video editing case translated from the Doubao Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Medieval Duel Style Transfer is a Seedance 2.5 video editing case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
 
 #### 📝 Prompt
 
@@ -1129,12 +1101,14 @@ Transform the plain two-person martial-arts video <<<video_1_1>>> into an empty-
 
 ---
 
+<a id="video-download-list"></a>
 ## 📥 Video Download List
 
-This repository includes preview images in [images](images), compressed archive videos under `videos/`, target filenames in [video-download-list.txt](video-download-list.txt), structured case data in [data/seedance-2-5-cases.json](data/seedance-2-5-cases.json), and direct source URLs in [video-urls.json](video-urls.json). The full playable gallery is available in the [Seedance 2.5 video prompt examples](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts) article.
+This repository includes preview [images](images) in images, compressed archive videos under videos/, target filenames in [video-download-list.txt](video-download-list.txt), structured case data in [data/seedance-2-5-cases.json](data/seedance-2-5-cases.json), and direct source URLs in [video-urls.json](video-urls.json). The full playable gallery is available in the [Seedance 2.5 video prompt examples](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts) article.
 
 ---
 
+<a id="how-to-contribute"></a>
 ## 🤝 How to Contribute
 
 Contributions are welcome. You can help by adding new Seedance 2.5 prompts, improving translations, adding thumbnail previews or video links, or refining descriptions and metadata.
@@ -1146,12 +1120,14 @@ Contributions are welcome. You can help by adding new Seedance 2.5 prompts, impr
 
 ---
 
+<a id="license"></a>
 ## 📄 License
 
 This project is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 ---
 
+<a id="acknowledgements"></a>
 ## 🙏 Acknowledgements
 
 - [Volcano Ark](https://ark.volcengine.com/) for the Seedance 2.5 promotion page and public case materials

@@ -6,3 +6,4 @@ tmp/
 *.log
 .env.local
 blog-draft-*.md
+.translation-cache.json
