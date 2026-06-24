@@ -1,27 +1,27 @@
-[![English](https://img.shields.io/badge/English-Current-brightgreen)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-Click%20to%20View-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-Click%20to%20View-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-Click%20to%20View-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-Click%20to%20View-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-Click%20to%20View-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-Click%20to%20View-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-Click%20to%20View-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-Click%20to%20View-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-Click%20to%20View-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-Click%20to%20View-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-Click%20to%20View-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-Click%20to%20View-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-Click%20to%20View-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-Click%20to%20View-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-Click%20to%20View-lightgrey)](README_tr-TR.md)
+[![English](https://img.shields.io/badge/English-Click%20to%20View-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-Click%20to%20View-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-Click%20to%20View-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-Click%20to%20View-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-Click%20to%20View-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-Click%20to%20View-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-Click%20to%20View-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-Current-brightgreen)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-Click%20to%20View-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-Click%20to%20View-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-Click%20to%20View-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-Click%20to%20View-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-Click%20to%20View-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-Click%20to%20View-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-Click%20to%20View-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-Click%20to%20View-lightgrey)](README_tr-TR.md)
 
 ---
 
 # 🎬 Awesome Seedance 2.5 Video Prompts
 
-A curated collection of high-quality video generation prompts for ByteDance's Seedance 2.5, covering cinematic storytelling, product ads, reference-based generation, multilingual typography, and controlled video editing.
+ByteDance Seedance 2.5 के लिए उच्च गुणवत्ता वाले वीडियो जनरेशन prompts का संग्रह, जिसमें cinematic storytelling, product ads, reference-based generation, multilingual typography और controlled video editing शामिल हैं।
 
 ---
 
 <a id="table-of-contents"></a>
-## 📖 Table of Contents
+## 📖 विषय सूची
 
-- [🌐 Video Examples](#video-examples)
-- [🤔 What is Seedance 2.5?](#what-is-seedance-25)
+- [🌐 वीडियो उदाहरण](#video-examples)
+- [🤔 Seedance 2.5 क्या है?](#what-is-seedance-25)
 - [⭐ Featured Prompts](#featured-prompts)
-- [🎬 All Prompts](#all-prompts)
-- [🤝 How to Contribute](#how-to-contribute)
-- [📄 License](#license)
+- [🎬 सभी Prompts](#all-prompts)
+- [🤝 योगदान कैसे करें](#how-to-contribute)
+- [📄 लाइसेंस](#license)
 
 ---
 
 <a id="video-examples"></a>
-## 🌐 Video Examples
+## 🌐 वीडियो उदाहरण
 
 <div align="center">
 
@@ -32,32 +32,32 @@ A curated collection of high-quality video generation prompts for ByteDance's Se
 ---
 
 <a id="what-is-seedance-25"></a>
-## 🤔 What is Seedance 2.5?
+## 🤔 Seedance 2.5 क्या है?
 
-Seedance 2.5 is ByteDance's next-generation Seedance video model for longer, richer, higher-resolution, and more controllable AI video production. It is especially useful for cinematic prompts, product videos, multi-reference scenes, and targeted video edits. You can try these workflows with the [Seedance 2.5 AI video generator](https://kinovi.ai/models/seedance2-5).
+Seedance 2.5 ByteDance का next-generation Seedance video model है, जो लंबे, अधिक समृद्ध, high-resolution और अधिक controllable AI video production के लिए बनाया गया है। यह cinematic prompts, product videos, multi-reference scenes और targeted video edits के लिए विशेष रूप से उपयोगी है। [Seedance 2.5 AI video generator](https://kinovi.ai/models/seedance2-5).
 
-**Key Features:**
-- 🎬 **30-second native video — Create longer single-clip outputs for ads, product demos, educational clips, and story-driven sequences.**
-- 🧩 **Rich multimodal references — Guide generations with character images, product materials, style boards, motion clips, audio direction, brand assets, and 3D references.**
-- ✂️ **Controllable video editing — Adjust backgrounds, replace products, change models, or refine local details while preserving the larger shot.**
-- 📐 **Production-oriented quality — Built around smoother motion, stronger character consistency, better prompt adherence, and 4K-oriented workflows.**
-- 🔁 **Flexible workflows — Supports text-to-video, image-to-video, video-to-video, multi-reference generation, first/last-frame keyframes, and targeted edits.**
+**मुख्य विशेषताएँ:**
+- 🎬 **30-second native video — ads, product demos, educational clips और story-driven sequences के लिए लंबे single-clip outputs बनाएँ।**
+- 🧩 **Rich multimodal references — character images, product materials, style boards, motion clips, audio direction, brand assets और 3D references से generation guide करें।**
+- ✂️ **Controllable video editing — overall shot को बनाए रखते हुए backgrounds adjust करें, products replace करें, models बदलें या local details refine करें।**
+- 📐 **Production-oriented quality — smoother motion, stronger character consistency, better prompt adherence और 4K workflows पर केंद्रित।**
+- 🔁 **Flexible workflows — text-to-video, image-to-video, video-to-video, multi-reference generation, first/last-frame keyframes और targeted edits का समर्थन।**
 
 ---
 
 <a id="featured-prompts"></a>
 ## 🔥 Featured Prompts
 
-> ⭐ Hand-picked hero cases from the Seedance 2.5 promotion page
+> ⭐ Seedance 2.5 promotion page से चुने गए hero cases
 
 ### No. 1: Steampunk Clockwork Odyssey
 
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold)
 
-#### 📖 Description
+#### 📖 विवरण
 
-Steampunk Clockwork Odyssey is a Seedance 2.5 first screen case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Steampunk Clockwork Odyssey Volcano Ark Seedance 2.5 promotion page का Seedance 2.5 first screen case है, जिसमें original scene direction, timing notes, visual style और reference placeholders सुरक्षित हैं।
 
 #### 📝 Prompt
 
@@ -69,7 +69,7 @@ A premium, highly cinematic 30-second 3D motion-graphics sequence in an exquisit
 Technical specifications: hyper-real mechanical textures, rich brass and gold tones, cinematic shallow depth of field. Smooth, continuous seamless travel shots, with a strong epic feeling and fantasy-adventure atmosphere.
 ```
 
-#### 🎬 Video
+#### 🎬 वीडियो
 
 <div align="center">
 
@@ -77,7 +77,7 @@ Technical specifications: hyper-real mechanical textures, rich brass and gold to
 <img src="images/01-steampunk-clockwork-odyssey.jpg" width="700" alt="Seedance 2.5 Steampunk Clockwork Odyssey video prompt preview">
 </a>
 
-**[View the Steampunk Clockwork Odyssey video prompt](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#1-steampunk-clockwork-odyssey)**
+**[video prompt देखें: Steampunk Clockwork Odyssey](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#1-steampunk-clockwork-odyssey)**
 
 </div>
 
@@ -93,9 +93,9 @@ Technical specifications: hyper-real mechanical textures, rich brass and gold to
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold)
 
-#### 📖 Description
+#### 📖 विवरण
 
-Crystal Ball Match-Cut Brand Film is a Seedance 2.5 first screen case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Crystal Ball Match-Cut Brand Film Volcano Ark Seedance 2.5 promotion page का Seedance 2.5 first screen case है, जिसमें original scene direction, timing notes, visual style और reference placeholders सुरक्षित हैं।
 
 #### 📝 Prompt
 
@@ -113,7 +113,7 @@ Final toss: On the final bass hit, the crystal ball is thrown high out of the to
 Edit tightly to the energetic BGM rhythm with beat-matched transitions. Use top-tier cinematic color grading, realistic glass refraction and transmission, complex ray tracing, and global illumination. Keep the subject ultra-sharp while the background carries strong dynamic blur and high visual impact.
 ```
 
-#### 🎬 Video
+#### 🎬 वीडियो
 
 <div align="center">
 
@@ -121,7 +121,7 @@ Edit tightly to the energetic BGM rhythm with beat-matched transitions. Use top-
 <img src="images/02-crystal-ball-match-cut-brand-film.jpg" width="700" alt="Seedance 2.5 Crystal Ball Match-Cut Brand Film video prompt preview">
 </a>
 
-**[View the Crystal Ball Match-Cut Brand Film video prompt](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#2-crystal-ball-match-cut-brand-film)**
+**[video prompt देखें: Crystal Ball Match-Cut Brand Film](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#2-crystal-ball-match-cut-brand-film)**
 
 </div>
 
@@ -137,9 +137,9 @@ Edit tightly to the energetic BGM rhythm with beat-matched transitions. Use top-
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold)
 
-#### 📖 Description
+#### 📖 विवरण
 
-Window-to-Eye Concept Film is a Seedance 2.5 first screen case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Window-to-Eye Concept Film Volcano Ark Seedance 2.5 promotion page का Seedance 2.5 first screen case है, जिसमें original scene direction, timing notes, visual style और reference placeholders सुरक्षित हैं।
 
 #### 📝 Prompt
 
@@ -150,7 +150,7 @@ The camera slowly pulls back and the image falls out of focus. It refocuses as t
 The image holds on the human eye close-up. The eye closes and the screen goes black, then suddenly opens again, revealing "seedance" at the center of the eye on a bass hit.
 ```
 
-#### 🎬 Video
+#### 🎬 वीडियो
 
 <div align="center">
 
@@ -158,7 +158,7 @@ The image holds on the human eye close-up. The eye closes and the screen goes bl
 <img src="images/03-window-to-eye-concept-film.jpg" width="700" alt="Seedance 2.5 Window-to-Eye Concept Film video prompt preview">
 </a>
 
-**[View the Window-to-Eye Concept Film video prompt](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#3-window-to-eye-concept-film)**
+**[video prompt देखें: Window-to-Eye Concept Film](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#3-window-to-eye-concept-film)**
 
 </div>
 
@@ -171,15 +171,15 @@ The image holds on the human eye close-up. The eye closes and the screen goes bl
 ---
 
 <a id="all-prompts"></a>
-## 🎬 All Prompts
+## 🎬 सभी Prompts
 
 ### No. 1: Steampunk Clockwork Odyssey
 
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
-#### 📖 Description
+#### 📖 विवरण
 
-Steampunk Clockwork Odyssey is a Seedance 2.5 first screen case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Steampunk Clockwork Odyssey Volcano Ark Seedance 2.5 promotion page का Seedance 2.5 first screen case है, जिसमें original scene direction, timing notes, visual style और reference placeholders सुरक्षित हैं।
 
 #### 📝 Prompt
 
@@ -191,7 +191,7 @@ A premium, highly cinematic 30-second 3D motion-graphics sequence in an exquisit
 Technical specifications: hyper-real mechanical textures, rich brass and gold tones, cinematic shallow depth of field. Smooth, continuous seamless travel shots, with a strong epic feeling and fantasy-adventure atmosphere.
 ```
 
-#### 🎬 Video
+#### 🎬 वीडियो
 
 <div align="center">
 
@@ -199,7 +199,7 @@ Technical specifications: hyper-real mechanical textures, rich brass and gold to
 <img src="images/01-steampunk-clockwork-odyssey.jpg" width="700" alt="Seedance 2.5 Steampunk Clockwork Odyssey video prompt preview">
 </a>
 
-**[View the Steampunk Clockwork Odyssey video prompt](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#1-steampunk-clockwork-odyssey)**
+**[video prompt देखें: Steampunk Clockwork Odyssey](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#1-steampunk-clockwork-odyssey)**
 
 </div>
 
@@ -214,9 +214,9 @@ Technical specifications: hyper-real mechanical textures, rich brass and gold to
 
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
-#### 📖 Description
+#### 📖 विवरण
 
-Crystal Ball Match-Cut Brand Film is a Seedance 2.5 first screen case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Crystal Ball Match-Cut Brand Film Volcano Ark Seedance 2.5 promotion page का Seedance 2.5 first screen case है, जिसमें original scene direction, timing notes, visual style और reference placeholders सुरक्षित हैं।
 
 #### 📝 Prompt
 
@@ -234,7 +234,7 @@ Final toss: On the final bass hit, the crystal ball is thrown high out of the to
 Edit tightly to the energetic BGM rhythm with beat-matched transitions. Use top-tier cinematic color grading, realistic glass refraction and transmission, complex ray tracing, and global illumination. Keep the subject ultra-sharp while the background carries strong dynamic blur and high visual impact.
 ```
 
-#### 🎬 Video
+#### 🎬 वीडियो
 
 <div align="center">
 
@@ -242,7 +242,7 @@ Edit tightly to the energetic BGM rhythm with beat-matched transitions. Use top-
 <img src="images/02-crystal-ball-match-cut-brand-film.jpg" width="700" alt="Seedance 2.5 Crystal Ball Match-Cut Brand Film video prompt preview">
 </a>
 
-**[View the Crystal Ball Match-Cut Brand Film video prompt](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#2-crystal-ball-match-cut-brand-film)**
+**[video prompt देखें: Crystal Ball Match-Cut Brand Film](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#2-crystal-ball-match-cut-brand-film)**
 
 </div>
 
@@ -257,9 +257,9 @@ Edit tightly to the energetic BGM rhythm with beat-matched transitions. Use top-
 
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
-#### 📖 Description
+#### 📖 विवरण
 
-Window-to-Eye Concept Film is a Seedance 2.5 first screen case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Window-to-Eye Concept Film Volcano Ark Seedance 2.5 promotion page का Seedance 2.5 first screen case है, जिसमें original scene direction, timing notes, visual style और reference placeholders सुरक्षित हैं।
 
 #### 📝 Prompt
 
@@ -270,7 +270,7 @@ The camera slowly pulls back and the image falls out of focus. It refocuses as t
 The image holds on the human eye close-up. The eye closes and the screen goes black, then suddenly opens again, revealing "seedance" at the center of the eye on a bass hit.
 ```
 
-#### 🎬 Video
+#### 🎬 वीडियो
 
 <div align="center">
 
@@ -278,7 +278,7 @@ The image holds on the human eye close-up. The eye closes and the screen goes bl
 <img src="images/03-window-to-eye-concept-film.jpg" width="700" alt="Seedance 2.5 Window-to-Eye Concept Film video prompt preview">
 </a>
 
-**[View the Window-to-Eye Concept Film video prompt](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#3-window-to-eye-concept-film)**
+**[video prompt देखें: Window-to-Eye Concept Film](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#3-window-to-eye-concept-film)**
 
 </div>
 
@@ -294,9 +294,9 @@ The image holds on the human eye close-up. The eye closes and the screen goes bl
 
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
-#### 📖 Description
+#### 📖 विवरण
 
-Multilingual Creative Typography Loop is a Seedance 2.5 user works case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Multilingual Creative Typography Loop Volcano Ark Seedance 2.5 promotion page का Seedance 2.5 user works case है, जिसमें original scene direction, timing notes, visual style और reference placeholders सुरक्षित हैं।
 
 #### 📝 Prompt
 
@@ -316,7 +316,7 @@ A 15-second seamless looping creative typography animation video, 4K, 30 fps. Ea
 13.2-15.0s Finale: All words from different languages orbit inward as particles and assemble around the central Chinese "创造" and English "Create". The background becomes a deep black stage with a radiant circular light ring. The final frame holds briefly, then the light ring collapses back into the first concentric-circle tunnel, creating a perfect loop.
 ```
 
-#### 🎬 Video
+#### 🎬 वीडियो
 
 <div align="center">
 
@@ -324,7 +324,7 @@ A 15-second seamless looping creative typography animation video, 4K, 30 fps. Ea
 <img src="images/04-multilingual-creative-typography-loop.jpg" width="700" alt="Seedance 2.5 Multilingual Creative Typography Loop video prompt preview">
 </a>
 
-**[View the Multilingual Creative Typography Loop video prompt](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#4-multilingual-creative-typography-loop)**
+**[video prompt देखें: Multilingual Creative Typography Loop](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#4-multilingual-creative-typography-loop)**
 
 </div>
 
@@ -341,9 +341,9 @@ A 15-second seamless looping creative typography animation video, 4K, 30 fps. Ea
 
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
-#### 📖 Description
+#### 📖 विवरण
 
-Haute Couture Dream Bokeh Film is a Seedance 2.5 user works case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Haute Couture Dream Bokeh Film Volcano Ark Seedance 2.5 promotion page का Seedance 2.5 user works case है, जिसमें original scene direction, timing notes, visual style और reference placeholders सुरक्षित हैं।
 
 #### 📝 Prompt
 
@@ -355,7 +355,7 @@ Overall style: a 30-second couture brand-level visual blockbuster with strong ci
 [20-30s] Finale: the model pauses under a halo of warm light. Silk, petals, and crystal particles spiral upward and dissolve into a clean brand-style ending frame. Keep the tone refined, dreamlike, luxurious, and cinematic.
 ```
 
-#### 🎬 Video
+#### 🎬 वीडियो
 
 <div align="center">
 
@@ -363,7 +363,7 @@ Overall style: a 30-second couture brand-level visual blockbuster with strong ci
 <img src="images/05-haute-couture-dream-bokeh-film.jpg" width="700" alt="Seedance 2.5 Haute Couture Dream Bokeh Film video prompt preview">
 </a>
 
-**[View the Haute Couture Dream Bokeh Film video prompt](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#5-haute-couture-dream-bokeh-film)**
+**[video prompt देखें: Haute Couture Dream Bokeh Film](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#5-haute-couture-dream-bokeh-film)**
 
 </div>
 
@@ -380,9 +380,9 @@ Overall style: a 30-second couture brand-level visual blockbuster with strong ci
 
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
-#### 📖 Description
+#### 📖 विवरण
 
-Deep-Sea Coral Reef Jellyfish Scene is a Seedance 2.5 user works case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Deep-Sea Coral Reef Jellyfish Scene Volcano Ark Seedance 2.5 promotion page का Seedance 2.5 user works case है, जिसमें original scene direction, timing notes, visual style और reference placeholders सुरक्षित हैं।
 
 #### 📝 Prompt
 
@@ -390,7 +390,7 @@ Deep-Sea Coral Reef Jellyfish Scene is a Seedance 2.5 user works case from the V
 A deep-sea coral reef scene in a tropical underwater world with a blue overall tone. Large areas of healthy, thriving colorful living coral, including branching coral, brain coral, plate coral, and soft sea-fan coral. Schools of tropical fish swim naturally through the reef. The foreground is clear and vivid; the background gradually shifts blue-gray with reduced contrast. Natural light from above is filtered through seawater, forming soft volumetric beams. Tiny suspended particles and slight water movement are visible. Soft coral sways gently and fish movement is smooth and coordinated. Add a group of translucent pale-purple glowing jellyfish, 8 to 12 in total, slowly appearing in different sizes. Their umbrella bodies pulse gently with flowing tentacles, moving elegantly through the coral reef while the whole scene stays calm, realistic, and dreamlike.
 ```
 
-#### 🎬 Video
+#### 🎬 वीडियो
 
 <div align="center">
 
@@ -398,7 +398,7 @@ A deep-sea coral reef scene in a tropical underwater world with a blue overall t
 <img src="images/06-deep-sea-coral-reef-jellyfish-scene.jpg" width="700" alt="Seedance 2.5 Deep-Sea Coral Reef Jellyfish Scene video prompt preview">
 </a>
 
-**[View the Deep-Sea Coral Reef Jellyfish Scene video prompt](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#6-deep-sea-coral-reef-jellyfish-scene)**
+**[video prompt देखें: Deep-Sea Coral Reef Jellyfish Scene](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#6-deep-sea-coral-reef-jellyfish-scene)**
 
 </div>
 
@@ -415,9 +415,9 @@ A deep-sea coral reef scene in a tropical underwater world with a blue overall t
 
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
-#### 📖 Description
+#### 📖 विवरण
 
-Floating Desert Museum Cinematic Film is a Seedance 2.5 user works case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Floating Desert Museum Cinematic Film Volcano Ark Seedance 2.5 promotion page का Seedance 2.5 user works case है, जिसमें original scene direction, timing notes, visual style और reference placeholders सुरक्षित हैं।
 
 #### 📝 Prompt
 
@@ -425,7 +425,7 @@ Floating Desert Museum Cinematic Film is a Seedance 2.5 user works case from the
 Cinematic and premium. A golden desert at dawn. A minimalist white art-museum building floats above the dunes, with delicate stone texture and soft reflections on its surface. Sunlight passes through windblown sand to form volumetric rays, and distant dunes have clear layers. The shot begins with an ultra-wide desert panorama and slowly pushes forward through drifting sand into the floating building. Inside are suspended sculptures, translucent silk installations, and a character wearing a white robe, with the fabric moving naturally in the wind. The camera performs a smooth orbit around the character. At the end, the building walls slowly open, revealing a huge sunrise and a silent desert horizon.
 ```
 
-#### 🎬 Video
+#### 🎬 वीडियो
 
 <div align="center">
 
@@ -433,7 +433,7 @@ Cinematic and premium. A golden desert at dawn. A minimalist white art-museum bu
 <img src="images/07-floating-desert-museum-cinematic-film.jpg" width="700" alt="Seedance 2.5 Floating Desert Museum Cinematic Film video prompt preview">
 </a>
 
-**[View the Floating Desert Museum Cinematic Film video prompt](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#7-floating-desert-museum-cinematic-film)**
+**[video prompt देखें: Floating Desert Museum Cinematic Film](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#7-floating-desert-museum-cinematic-film)**
 
 </div>
 
@@ -450,9 +450,9 @@ Cinematic and premium. A golden desert at dawn. A minimalist white art-museum bu
 
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
-#### 📖 Description
+#### 📖 विवरण
 
-Retro Suede Boots Brand Concept Film is a Seedance 2.5 user works case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Retro Suede Boots Brand Concept Film Volcano Ark Seedance 2.5 promotion page का Seedance 2.5 user works case है, जिसमें original scene direction, timing notes, visual style और reference placeholders सुरक्षित हैं।
 
 #### 📝 Prompt
 
@@ -462,7 +462,7 @@ Then cut into a montage full of weightlessness and dreamlike color: young male a
 The middle section shows boots landing on mirror-like wet sand, footsteps turning into rippling liquid gold. The camera glides along the boot edge, then passes through a swirl of red dust into an abstract desert runway. Final shot: the model stands alone on a dune ridge at sunset. Red sand rises behind the body like a curtain, forming a clean, high-fashion brand silhouette. Use cinematic grading, premium commercial texture, realistic suede and sand detail, elegant rhythm, and no clutter.
 ```
 
-#### 🎬 Video
+#### 🎬 वीडियो
 
 <div align="center">
 
@@ -470,7 +470,7 @@ The middle section shows boots landing on mirror-like wet sand, footsteps turnin
 <img src="images/08-retro-suede-boots-brand-concept-film.jpg" width="700" alt="Seedance 2.5 Retro Suede Boots Brand Concept Film video prompt preview">
 </a>
 
-**[View the Retro Suede Boots Brand Concept Film video prompt](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#8-retro-suede-boots-brand-concept-film)**
+**[video prompt देखें: Retro Suede Boots Brand Concept Film](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#8-retro-suede-boots-brand-concept-film)**
 
 </div>
 
@@ -487,9 +487,9 @@ The middle section shows boots landing on mirror-like wet sand, footsteps turnin
 
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
-#### 📖 Description
+#### 📖 विवरण
 
-Peking Opera Heritage Short Film is a Seedance 2.5 user works case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Peking Opera Heritage Short Film Volcano Ark Seedance 2.5 promotion page का Seedance 2.5 user works case है, जिसमें original scene direction, timing notes, visual style और reference placeholders सुरक्षित हैं।
 
 #### 📝 Prompt
 
@@ -497,7 +497,7 @@ Peking Opera Heritage Short Film is a Seedance 2.5 user works case from the Volc
 A short film about the intangible cultural heritage of Peking Opera, cinematic, warm, restrained, and rooted in Eastern aesthetics. In a traditional troupe backstage area and handcraft workshop, an old master quietly makes opera headdresses, arranges costumes, and paints facial makeup. The hand details are delicate; silk threads, beads, pigments, and embroidered patterns have rich texture. A young apprentice watches seriously nearby, then carefully receives a tool and completes a small step under the master's guidance. The master straightens the apprentice's headwear and collar, as if gently passing on both a craft and an emotion. In the final shot, the young performer is fully dressed and stands beside the stage just before entering. A soft light illuminates the costume and side profile, creating a quiet, moving inheritance moment.
 ```
 
-#### 🎬 Video
+#### 🎬 वीडियो
 
 <div align="center">
 
@@ -505,7 +505,7 @@ A short film about the intangible cultural heritage of Peking Opera, cinematic, 
 <img src="images/09-peking-opera-heritage-short-film.jpg" width="700" alt="Seedance 2.5 Peking Opera Heritage Short Film video prompt preview">
 </a>
 
-**[View the Peking Opera Heritage Short Film video prompt](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#9-peking-opera-heritage-short-film)**
+**[video prompt देखें: Peking Opera Heritage Short Film](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#9-peking-opera-heritage-short-film)**
 
 </div>
 
@@ -522,9 +522,9 @@ A short film about the intangible cultural heritage of Peking Opera, cinematic, 
 
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
-#### 📖 Description
+#### 📖 विवरण
 
-Oceanic Civilization Epic Sci-Fi Film is a Seedance 2.5 user works case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Oceanic Civilization Epic Sci-Fi Film Volcano Ark Seedance 2.5 promotion page का Seedance 2.5 user works case है, जिसमें original scene direction, timing notes, visual style और reference placeholders सुरक्षित हैं।
 
 #### 📝 Prompt
 
@@ -537,7 +537,7 @@ Theme: "The Fallen Theater: Oceanic Civilization". Epic sci-fi, Dune x Interstel
 [25-30s | Abyssal finale] The camera pulls back to reveal the entire oceanic civilization as a colossal temple hidden under the sea. A grand spiral of stardust and water forms above it. The image should feel sacred, lonely, immense, and cinematic, with high dynamic range and realistic sci-fi texture.
 ```
 
-#### 🎬 Video
+#### 🎬 वीडियो
 
 <div align="center">
 
@@ -545,7 +545,7 @@ Theme: "The Fallen Theater: Oceanic Civilization". Epic sci-fi, Dune x Interstel
 <img src="images/10-oceanic-civilization-epic-sci-fi-film.jpg" width="700" alt="Seedance 2.5 Oceanic Civilization Epic Sci-Fi Film video prompt preview">
 </a>
 
-**[View the Oceanic Civilization Epic Sci-Fi Film video prompt](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#10-oceanic-civilization-epic-sci-fi-film)**
+**[video prompt देखें: Oceanic Civilization Epic Sci-Fi Film](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#10-oceanic-civilization-epic-sci-fi-film)**
 
 </div>
 
@@ -562,9 +562,9 @@ Theme: "The Fallen Theater: Oceanic Civilization". Epic sci-fi, Dune x Interstel
 
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
-#### 📖 Description
+#### 📖 विवरण
 
-Mechanical Flower Bloom Brand Film is a Seedance 2.5 user works case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Mechanical Flower Bloom Brand Film Volcano Ark Seedance 2.5 promotion page का Seedance 2.5 user works case है, जिसमें original scene direction, timing notes, visual style और reference placeholders सुरक्षित हैं।
 
 #### 📝 Prompt
 
@@ -572,7 +572,7 @@ Mechanical Flower Bloom Brand Film is a Seedance 2.5 user works case from the Vo
 Theme: "Mechanical Flower Bloom". Highlight the video-generation model's strengths in lighting, art detail, realism, camera movement, and cinematic character. The overall style is a high-end technology brand advertisement with strong visual impact. Use a one-shot macro push-in: begin with a metal flower bud in darkness, gradually enter the precision mechanical structure inside the petals, and end with the mechanical flower fully blooming as light spreads outward in a climactic frame. Require realistic physical lighting, refined metal and glass materials, delicate mechanical motion, stable composition, cinematic color grading, and no text.
 ```
 
-#### 🎬 Video
+#### 🎬 वीडियो
 
 <div align="center">
 
@@ -580,7 +580,7 @@ Theme: "Mechanical Flower Bloom". Highlight the video-generation model's strengt
 <img src="images/11-mechanical-flower-bloom-brand-film.jpg" width="700" alt="Seedance 2.5 Mechanical Flower Bloom Brand Film video prompt preview">
 </a>
 
-**[View the Mechanical Flower Bloom Brand Film video prompt](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#11-mechanical-flower-bloom-brand-film)**
+**[video prompt देखें: Mechanical Flower Bloom Brand Film](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#11-mechanical-flower-bloom-brand-film)**
 
 </div>
 
@@ -597,9 +597,9 @@ Theme: "Mechanical Flower Bloom". Highlight the video-generation model's strengt
 
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
-#### 📖 Description
+#### 📖 विवरण
 
-Silk Road Pomegranate Folk Animation is a Seedance 2.5 user works case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Silk Road Pomegranate Folk Animation Volcano Ark Seedance 2.5 promotion page का Seedance 2.5 user works case है, जिसमें original scene direction, timing notes, visual style और reference placeholders सुरक्षित हैं।
 
 #### 📝 Prompt
 
@@ -612,7 +612,7 @@ Shot 4, harvest and sharing (16-23s): The red path returns to an orchard and a t
 Shot 5, final stillness (23-30s): Pomegranate juice fills a cup. The surface of the liquid reflects gold ornament patterns. The whole image slowly settles into a mural-like poster composition, with fruit, leaves, cups, and Silk Road motifs arranged around the center.
 ```
 
-#### 🎬 Video
+#### 🎬 वीडियो
 
 <div align="center">
 
@@ -620,7 +620,7 @@ Shot 5, final stillness (23-30s): Pomegranate juice fills a cup. The surface of 
 <img src="images/12-silk-road-pomegranate-folk-animation.jpg" width="700" alt="Seedance 2.5 Silk Road Pomegranate Folk Animation video prompt preview">
 </a>
 
-**[View the Silk Road Pomegranate Folk Animation video prompt](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#12-silk-road-pomegranate-folk-animation)**
+**[video prompt देखें: Silk Road Pomegranate Folk Animation](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#12-silk-road-pomegranate-folk-animation)**
 
 </div>
 
@@ -637,7 +637,7 @@ Shot 5, final stillness (23-30s): Pomegranate juice fills a cup. The surface of 
 
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
-#### 📖 Description
+#### 📖 विवरण
 
 One-Shot Rooms With Shifting Worlds is a Seedance 2.5 reference generation case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
 
@@ -653,7 +653,7 @@ One continuous shot. The camera smoothly follows a person in a black coat (refer
 25-30s: Final room, blank white space. The protagonist stands in the center and snaps their fingers. With the snap sound, the screen turns black and the word "seedance" appears in the center. Overall: cinematic, high-fashion advertising style, with lighting determined entirely by the outside scene, strong emotional contrast, and no extra text.
 ```
 
-#### 🎬 Video
+#### 🎬 वीडियो
 
 <div align="center">
 
@@ -661,7 +661,7 @@ One continuous shot. The camera smoothly follows a person in a black coat (refer
 <img src="images/13-one-shot-rooms-with-shifting-worlds.jpg" width="700" alt="Seedance 2.5 One-Shot Rooms With Shifting Worlds video prompt preview">
 </a>
 
-**[View the One-Shot Rooms With Shifting Worlds video prompt](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#13-one-shot-rooms-with-shifting-worlds)**
+**[video prompt देखें: One-Shot Rooms With Shifting Worlds](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#13-one-shot-rooms-with-shifting-worlds)**
 
 </div>
 
@@ -677,7 +677,7 @@ One continuous shot. The camera smoothly follows a person in a black coat (refer
 
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
-#### 📖 Description
+#### 📖 विवरण
 
 Three-Thousand-Year Football History is a Seedance 2.5 reference generation case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
 
@@ -691,7 +691,7 @@ In the modern section, the ball becomes a contemporary football. The scene expan
 Finale: the ball lands at the center of a global field where people from different regions gather. The image should feel grand and epic. Narration: "Today, football connects the world."
 ```
 
-#### 🎬 Video
+#### 🎬 वीडियो
 
 <div align="center">
 
@@ -699,7 +699,7 @@ Finale: the ball lands at the center of a global field where people from differe
 <img src="images/14-three-thousand-year-football-history.jpg" width="700" alt="Seedance 2.5 Three-Thousand-Year Football History video prompt preview">
 </a>
 
-**[View the Three-Thousand-Year Football History video prompt](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#14-three-thousand-year-football-history)**
+**[video prompt देखें: Three-Thousand-Year Football History](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#14-three-thousand-year-football-history)**
 
 </div>
 
@@ -715,7 +715,7 @@ Finale: the ball lands at the center of a global field where people from differe
 
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
-#### 📖 Description
+#### 📖 विवरण
 
 Capsule Coffee Machine Tutorial is a Seedance 2.5 reference generation case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
 
@@ -732,7 +732,7 @@ A 30-second tutorial video for installing and using a capsule coffee machine.
 27-30s: Final clean product shot. The cup sits beside the machine, steam rising. Add a neat ending frame and a soft confirmation sound.
 ```
 
-#### 🎬 Video
+#### 🎬 वीडियो
 
 <div align="center">
 
@@ -740,7 +740,7 @@ A 30-second tutorial video for installing and using a capsule coffee machine.
 <img src="images/15-capsule-coffee-machine-tutorial.jpg" width="700" alt="Seedance 2.5 Capsule Coffee Machine Tutorial video prompt preview">
 </a>
 
-**[View the Capsule Coffee Machine Tutorial video prompt](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#15-capsule-coffee-machine-tutorial)**
+**[video prompt देखें: Capsule Coffee Machine Tutorial](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#15-capsule-coffee-machine-tutorial)**
 
 </div>
 
@@ -756,7 +756,7 @@ A 30-second tutorial video for installing and using a capsule coffee machine.
 
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
-#### 📖 Description
+#### 📖 विवरण
 
 Lonely Crowd One-Shot Through Seasons is a Seedance 2.5 reference generation case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
 
@@ -772,7 +772,7 @@ Core instruction: a 26-second one-shot narrative short film, stable follow shot,
 20-26s: The season turns into winter. Fine snow falls. The crowd fades into soft silhouettes. She stops briefly in the center of the moving world and looks upward. The final image should feel lonely, beautiful, and cinematic, with no hard cuts.
 ```
 
-#### 🎬 Video
+#### 🎬 वीडियो
 
 <div align="center">
 
@@ -780,7 +780,7 @@ Core instruction: a 26-second one-shot narrative short film, stable follow shot,
 <img src="images/16-lonely-crowd-one-shot-through-seasons.jpg" width="700" alt="Seedance 2.5 Lonely Crowd One-Shot Through Seasons video prompt preview">
 </a>
 
-**[View the Lonely Crowd One-Shot Through Seasons video prompt](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#16-lonely-crowd-one-shot-through-seasons)**
+**[video prompt देखें: Lonely Crowd One-Shot Through Seasons](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#16-lonely-crowd-one-shot-through-seasons)**
 
 </div>
 
@@ -797,7 +797,7 @@ Core instruction: a 26-second one-shot narrative short film, stable follow shot,
 
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
-#### 📖 Description
+#### 📖 विवरण
 
 Fruit Cookie Commercial is a Seedance 2.5 reference generation case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
 
@@ -807,7 +807,7 @@ Fruit Cookie Commercial is a Seedance 2.5 reference generation case from the Vol
 Bright, colorful advertising-film style. Fruit-flavored cookies are the main subject, including strawberry, apple, grape, and orange flavors. The strawberry flavor refers to <<<image_1_1>>>. Cookies and their matching fruits are arranged in strong, orderly geometric arrays. The overall image is clean, premium, and rhythmic. The opening uses fruit to quickly establish visual focus, referring to the composition of <<<video_1_2>>> as the music beat enters. Then different flavored cookies are lined up neatly, with close-up cuts inspired by the motion and camera movement of <<<video_2_3>>>. In the climax, one cookie breaks open, fruit juice and crumbs burst outward in a controlled, beautiful way, and the four flavors rotate into a final symmetrical product layout. Use bright lighting, crisp textures, lively rhythm, and no messy background.
 ```
 
-#### 🎬 Video
+#### 🎬 वीडियो
 
 <div align="center">
 
@@ -815,7 +815,7 @@ Bright, colorful advertising-film style. Fruit-flavored cookies are the main sub
 <img src="images/17-fruit-cookie-commercial.jpg" width="700" alt="Seedance 2.5 Fruit Cookie Commercial video prompt preview">
 </a>
 
-**[View the Fruit Cookie Commercial video prompt](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#17-fruit-cookie-commercial)**
+**[video prompt देखें: Fruit Cookie Commercial](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#17-fruit-cookie-commercial)**
 
 </div>
 
@@ -832,7 +832,7 @@ Bright, colorful advertising-film style. Fruit-flavored cookies are the main sub
 
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
-#### 📖 Description
+#### 📖 विवरण
 
 Desert Horned Lizard Grapefruit Ad is a Seedance 2.5 reference generation case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
 
@@ -849,7 +849,7 @@ Desert Horned Lizard Grapefruit Ad is a Seedance 2.5 reference generation case f
 29-30s: The lizard leans back contentedly on the grapefruit. The camera pulls away and freezes on a refreshing, bright summer composition.
 ```
 
-#### 🎬 Video
+#### 🎬 वीडियो
 
 <div align="center">
 
@@ -857,7 +857,7 @@ Desert Horned Lizard Grapefruit Ad is a Seedance 2.5 reference generation case f
 <img src="images/18-desert-horned-lizard-grapefruit-ad.jpg" width="700" alt="Seedance 2.5 Desert Horned Lizard Grapefruit Ad video prompt preview">
 </a>
 
-**[View the Desert Horned Lizard Grapefruit Ad video prompt](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#18-desert-horned-lizard-grapefruit-ad)**
+**[video prompt देखें: Desert Horned Lizard Grapefruit Ad](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#18-desert-horned-lizard-grapefruit-ad)**
 
 </div>
 
@@ -873,7 +873,7 @@ Desert Horned Lizard Grapefruit Ad is a Seedance 2.5 reference generation case f
 
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
-#### 📖 Description
+#### 📖 विवरण
 
 Youth Racing Short Film is a Seedance 2.5 reference generation case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
 
@@ -888,7 +888,7 @@ A 30-second cinematic youth racing story in 2D animation style. The protagonist 
 27-30s: The camera circles the motorcycle in midair in slow motion. Push the emotions of passion, tenderness, freedom, and upward flight to the climax. Floral effects open behind the rider, then "seedance" appears based on <<<image_1_1>>>.
 ```
 
-#### 🎬 Video
+#### 🎬 वीडियो
 
 <div align="center">
 
@@ -896,7 +896,7 @@ A 30-second cinematic youth racing story in 2D animation style. The protagonist 
 <img src="images/19-youth-racing-short-film.jpg" width="700" alt="Seedance 2.5 Youth Racing Short Film video prompt preview">
 </a>
 
-**[View the Youth Racing Short Film video prompt](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#19-youth-racing-short-film)**
+**[video prompt देखें: Youth Racing Short Film](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#19-youth-racing-short-film)**
 
 </div>
 
@@ -912,7 +912,7 @@ A 30-second cinematic youth racing story in 2D animation style. The protagonist 
 
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
-#### 📖 Description
+#### 📖 विवरण
 
 FPV Multilingual Landscape Flight is a Seedance 2.5 reference generation case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
 
@@ -933,7 +933,7 @@ A one-shot FPV drone first-person video, 33 seconds of continuous long take with
 30-33s: The shot arrives at an open plaza. All previous visual elements converge into a clean final composition, while still keeping each language display clear and separate.
 ```
 
-#### 🎬 Video
+#### 🎬 वीडियो
 
 <div align="center">
 
@@ -941,7 +941,7 @@ A one-shot FPV drone first-person video, 33 seconds of continuous long take with
 <img src="images/20-fpv-multilingual-landscape-flight.jpg" width="700" alt="Seedance 2.5 FPV Multilingual Landscape Flight video prompt preview">
 </a>
 
-**[View the FPV Multilingual Landscape Flight video prompt](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#20-fpv-multilingual-landscape-flight)**
+**[video prompt देखें: FPV Multilingual Landscape Flight](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#20-fpv-multilingual-landscape-flight)**
 
 </div>
 
@@ -957,7 +957,7 @@ A one-shot FPV drone first-person video, 33 seconds of continuous long take with
 
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
-#### 📖 Description
+#### 📖 विवरण
 
 Global Flower Thank-You Film is a Seedance 2.5 reference generation case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
 
@@ -974,7 +974,7 @@ Live-action realistic style, fast editing, cinematic, 4K, 24 fps, warm natural l
 24-30s: Final wide shot. The flower returns to the center of a diverse group. Everyone looks toward the camera with gentle smiles. End on a warm, natural, globally connected feeling.
 ```
 
-#### 🎬 Video
+#### 🎬 वीडियो
 
 <div align="center">
 
@@ -982,7 +982,7 @@ Live-action realistic style, fast editing, cinematic, 4K, 24 fps, warm natural l
 <img src="images/21-global-flower-thank-you-film.jpg" width="700" alt="Seedance 2.5 Global Flower Thank-You Film video prompt preview">
 </a>
 
-**[View the Global Flower Thank-You Film video prompt](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#21-global-flower-thank-you-film)**
+**[video prompt देखें: Global Flower Thank-You Film](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#21-global-flower-thank-you-film)**
 
 </div>
 
@@ -998,9 +998,9 @@ Live-action realistic style, fast editing, cinematic, 4K, 24 fps, warm natural l
 
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
-#### 📖 Description
+#### 📖 विवरण
 
-Energy Bow Jungle Edit is a Seedance 2.5 video editing case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Energy Bow Jungle Edit Volcano Ark Seedance 2.5 promotion page का Seedance 2.5 video editing case है, जिसमें original scene direction, timing notes, visual style और reference placeholders सुरक्षित हैं।
 
 #### 📝 Prompt
 
@@ -1008,7 +1008,7 @@ Energy Bow Jungle Edit is a Seedance 2.5 video editing case from the Volcano Ark
 Keep the character, jungle environment, camera movement, composition, action rhythm, and duration of <<<video_1_1>>> unchanged. A blue-white energy bow and glowing arrow <<<image_1_2>>> slowly appear in the character's hands. The bow gradually forms from faint electric arcs and particles, with delicate flowing current texture, slight volumetric light, and a stable energy silhouette. During the draw, the arrow condenses into a bright energy arrow at the center of the bowstring. The instant the character releases, the arrow shoots out at high speed, leaving a bright, slender, continuous, sharp energy trail.
 ```
 
-#### 🎬 Video
+#### 🎬 वीडियो
 
 <div align="center">
 
@@ -1016,7 +1016,7 @@ Keep the character, jungle environment, camera movement, composition, action rhy
 <img src="images/22-energy-bow-jungle-edit.jpg" width="700" alt="Seedance 2.5 Energy Bow Jungle Edit video prompt preview">
 </a>
 
-**[View the Energy Bow Jungle Edit video prompt](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#22-energy-bow-jungle-edit)**
+**[video prompt देखें: Energy Bow Jungle Edit](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#22-energy-bow-jungle-edit)**
 
 </div>
 
@@ -1033,9 +1033,9 @@ Keep the character, jungle environment, camera movement, composition, action rhy
 
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
-#### 📖 Description
+#### 📖 विवरण
 
-Drone Removal Safari Cleanup is a Seedance 2.5 video editing case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Drone Removal Safari Cleanup Volcano Ark Seedance 2.5 promotion page का Seedance 2.5 video editing case है, जिसमें original scene direction, timing notes, visual style और reference placeholders सुरक्षित हैं।
 
 #### 📝 Prompt
 
@@ -1043,7 +1043,7 @@ Drone Removal Safari Cleanup is a Seedance 2.5 video editing case from the Volca
 Remove the drone and the lower-left foreground rail/vehicle edge from <<<video_1_1>>> and naturally inpaint the removed area. Keep the giraffe herd, tree branches, distant grassland, golden sunset backlight, atmospheric perspective, and camera composition completely unchanged. The completed background should match the surrounding environment, generating natural sky, gaps between branches, and grassland details. Avoid smearing, flicker, deformation, ghosting, or jumping. Ensure temporal consistency across frames, continuous motion, natural edges, and an overall look like original live-action footage.
 ```
 
-#### 🎬 Video
+#### 🎬 वीडियो
 
 <div align="center">
 
@@ -1051,7 +1051,7 @@ Remove the drone and the lower-left foreground rail/vehicle edge from <<<video_1
 <img src="images/23-drone-removal-safari-cleanup.jpg" width="700" alt="Seedance 2.5 Drone Removal Safari Cleanup video prompt preview">
 </a>
 
-**[View the Drone Removal Safari Cleanup video prompt](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#23-drone-removal-safari-cleanup)**
+**[video prompt देखें: Drone Removal Safari Cleanup](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#23-drone-removal-safari-cleanup)**
 
 </div>
 
@@ -1068,9 +1068,9 @@ Remove the drone and the lower-left foreground rail/vehicle edge from <<<video_1
 
 ![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
 
-#### 📖 Description
+#### 📖 विवरण
 
-Medieval Duel Style Transfer is a Seedance 2.5 video editing case from the Volcano Ark Seedance 2.5 promotion page, preserving the original scene direction, timing notes, visual style, and reference placeholders.
+Medieval Duel Style Transfer Volcano Ark Seedance 2.5 promotion page का Seedance 2.5 video editing case है, जिसमें original scene direction, timing notes, visual style और reference placeholders सुरक्षित हैं।
 
 #### 📝 Prompt
 
@@ -1078,7 +1078,7 @@ Medieval Duel Style Transfer is a Seedance 2.5 video editing case from the Volca
 Transform the plain two-person martial-arts video <<<video_1_1>>> into an empty-hand probing exchange before a cold-weapon duel. Replace the scene with a medieval stone-castle platform, ancient courtyard ground, mountain fortress exterior platform, or simple stone-brick duel arena. The background should include castle walls, wind, mist, distant mountain lines, and flat stone ground <<<image_1_2>>>. Replace the clothing of the dark-clothed man in the video with <<<image_2_3>>> and the light-clothed man with <<<image_3_4>>>. Keep the original action rhythm and body motion, but make the atmosphere more restrained, tense, and cinematic, as if the duel is about to begin.
 ```
 
-#### 🎬 Video
+#### 🎬 वीडियो
 
 <div align="center">
 
@@ -1086,7 +1086,7 @@ Transform the plain two-person martial-arts video <<<video_1_1>>> into an empty-
 <img src="images/24-medieval-duel-style-transfer.jpg" width="700" alt="Seedance 2.5 Medieval Duel Style Transfer video prompt preview">
 </a>
 
-**[View the Medieval Duel Style Transfer video prompt](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#24-medieval-duel-style-transfer)**
+**[video prompt देखें: Medieval Duel Style Transfer](https://kinovi.ai/blogs/seedance-2-5-video-prompts-24-examples-for-better-ai-video-generation#24-medieval-duel-style-transfer)**
 
 </div>
 
@@ -1100,18 +1100,18 @@ Transform the plain two-person martial-arts video <<<video_1_1>>> into an empty-
 ---
 
 <a id="how-to-contribute"></a>
-## 🤝 How to Contribute
+## 🤝 योगदान कैसे करें
 
-Contributions are welcome. You can help by adding new Seedance 2.5 prompts, improving translations, adding thumbnail previews or video links, or refining descriptions and metadata.
+Contributions welcome हैं। आप नए Seedance 2.5 prompts जोड़ सकते हैं, translations सुधार सकते हैं, thumbnail previews या video links जोड़ सकते हैं, या descriptions और metadata refine कर सकते हैं।
 
-1. Fork the repository
-2. Add or improve prompts and media links
-3. Keep source attribution clear
-4. Submit a pull request
+1. Repository fork करें
+2. Prompts और media links जोड़ें या सुधारें
+3. Source attribution साफ रखें
+4. Pull request submit करें
 
 ---
 
 <a id="license"></a>
-## 📄 License
+## 📄 लाइसेंस
 
-This project is licensed under the [MIT License](LICENSE).
+यह project [MIT License](LICENSE) के अंतर्गत licensed है।
