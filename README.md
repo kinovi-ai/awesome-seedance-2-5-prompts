@@ -8,7 +8,6 @@ A curated collection of high-quality video generation prompts for ByteDance's Se
 
 - [🌐 Video Examples](#-video-examples)
 - [🤔 What is Seedance 2.5?](#-what-is-seedance-25)
-- [📊 Statistics](#-statistics)
 - [⭐ Featured Prompts](#-featured-prompts)
 - [🎬 All Prompts](#-all-prompts)
 - [📥 Video Download List](#-video-download-list)
@@ -30,26 +29,14 @@ A curated collection of high-quality video generation prompts for ByteDance's Se
 
 ## 🤔 What is Seedance 2.5?
 
-**Seedance 2.5** is a video generation model in ByteDance's Seedance family. The Volcano Ark promotion page highlights long-form narrative generation, multimodal reference expansion, 1080p output, multi-shot storytelling, audio-visual synchronization, controllable video editing, and multilingual expression. You can test similar workflows with the [Seedance 2.5 AI video generator](https://kinovi.ai/models/seedance2-5).
+**Seedance 2.5** is ByteDance's next-generation Seedance video model for longer, richer, higher-resolution, and more controllable AI video production. It is especially useful for cinematic prompts, product videos, multi-reference scenes, and targeted video edits. You can try these workflows with the [Seedance 2.5 AI video generator](https://kinovi.ai/models/seedance2-5).
 
 **Key Features:**
-- 🎥 **Text-to-Video** — Generate cinematic video from detailed text prompts
-- 🖼️ **Reference-to-Video** — Use images and videos as visual anchors
-- 📹 **Video Editing** — Preserve motion while changing objects, scenes, or effects
-- 🌐 **Multilingual Expression** — Generate text and speech scenarios across languages
-- 📐 **30-second storytelling**, 1080p high-definition output
-- 🎞️ **Multi-shot narrative control** with second-level scene planning
-
----
-
-## 📊 Statistics
-
-| Metric | Count |
-|--------|-------|
-| 📝 Total Prompts | **24** |
-| ⭐ Featured Prompts | **3** |
-| 🔄 Last Updated | **2026-06-24** |
-| 🌐 Source | **Volcano Ark Seedance 2.5 Promotion Page** |
+- 🎬 **30-second native video** — Create longer single-clip outputs for ads, product demos, educational clips, and story-driven sequences.
+- 🧩 **Rich multimodal references** — Guide generations with character images, product materials, style boards, motion clips, audio direction, brand assets, and 3D references.
+- ✂️ **Controllable video editing** — Adjust backgrounds, replace products, change models, or refine local details while preserving the larger shot.
+- 📐 **Production-oriented quality** — Built around smoother motion, stronger character consistency, better prompt adherence, and 4K-oriented workflows.
+- 🔁 **Flexible workflows** — Supports text-to-video, image-to-video, video-to-video, multi-reference generation, first/last-frame keyframes, and targeted edits.
 
 ---
 
