@@ -1,6 +1,6 @@
 # 🎬 Awesome Seedance 2.5 Video Prompts
 
-A curated collection of high-quality video generation prompts for ByteDance's Seedance 2.5.
+A curated collection of high-quality video generation prompts for ByteDance's Seedance 2.5. Each GitHub preview uses a lightweight thumbnail and links to the matching playable video section on Kinovi.
 
 ---
 
@@ -33,7 +33,7 @@ Why use this README?
 | 🎬 Video Preview | Clickable thumbnail previews | Full embedded video playback |
 | 🔍 Search | Ctrl+F | Blog navigation and SEO pages |
 | 📝 Prompt Access | Full translated prompts in one file | Prompt context with playable examples |
-| 📥 Local Archiving | Download list included | Public viewing page |
+| 📥 Media Assets | Thumbnails and archive filenames included | Public viewing page |
 
 ---
 
@@ -90,11 +90,11 @@ Technical specifications: hyper-real mechanical textures, rich brass and gold to
 
 <div align="center">
 
-<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#steampunk-clockwork-odyssey">
+<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#1-steampunk-clockwork-odyssey">
 <img src="images/01-steampunk-clockwork-odyssey.jpg" width="700" alt="Seedance 2.5 Steampunk Clockwork Odyssey video prompt preview">
 </a>
 
-**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#steampunk-clockwork-odyssey)**
+**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#1-steampunk-clockwork-odyssey)**
 
 </div>
 
@@ -135,11 +135,11 @@ Edit tightly to the energetic BGM rhythm with beat-matched transitions. Use top-
 
 <div align="center">
 
-<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#crystal-ball-match-cut-brand-film">
+<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#2-crystal-ball-match-cut-brand-film">
 <img src="images/02-crystal-ball-match-cut-brand-film.jpg" width="700" alt="Seedance 2.5 Crystal Ball Match-Cut Brand Film video prompt preview">
 </a>
 
-**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#crystal-ball-match-cut-brand-film)**
+**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#2-crystal-ball-match-cut-brand-film)**
 
 </div>
 
@@ -173,11 +173,11 @@ The image holds on the human eye close-up. The eye closes and the screen goes bl
 
 <div align="center">
 
-<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#window-to-eye-concept-film">
+<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#3-window-to-eye-concept-film">
 <img src="images/03-window-to-eye-concept-film.jpg" width="700" alt="Seedance 2.5 Window-to-Eye Concept Film video prompt preview">
 </a>
 
-**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#window-to-eye-concept-film)**
+**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#3-window-to-eye-concept-film)**
 
 </div>
 
@@ -215,11 +215,11 @@ Technical specifications: hyper-real mechanical textures, rich brass and gold to
 
 <div align="center">
 
-<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#steampunk-clockwork-odyssey">
+<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#1-steampunk-clockwork-odyssey">
 <img src="images/01-steampunk-clockwork-odyssey.jpg" width="700" alt="Seedance 2.5 Steampunk Clockwork Odyssey video prompt preview">
 </a>
 
-**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#steampunk-clockwork-odyssey)**
+**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#1-steampunk-clockwork-odyssey)**
 
 </div>
 
@@ -260,11 +260,11 @@ Edit tightly to the energetic BGM rhythm with beat-matched transitions. Use top-
 
 <div align="center">
 
-<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#crystal-ball-match-cut-brand-film">
+<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#2-crystal-ball-match-cut-brand-film">
 <img src="images/02-crystal-ball-match-cut-brand-film.jpg" width="700" alt="Seedance 2.5 Crystal Ball Match-Cut Brand Film video prompt preview">
 </a>
 
-**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#crystal-ball-match-cut-brand-film)**
+**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#2-crystal-ball-match-cut-brand-film)**
 
 </div>
 
@@ -298,11 +298,11 @@ The image holds on the human eye close-up. The eye closes and the screen goes bl
 
 <div align="center">
 
-<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#window-to-eye-concept-film">
+<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#3-window-to-eye-concept-film">
 <img src="images/03-window-to-eye-concept-film.jpg" width="700" alt="Seedance 2.5 Window-to-Eye Concept Film video prompt preview">
 </a>
 
-**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#window-to-eye-concept-film)**
+**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#3-window-to-eye-concept-film)**
 
 </div>
 
@@ -345,11 +345,11 @@ A 15-second seamless looping creative typography animation video, 4K, 30 fps. Ea
 
 <div align="center">
 
-<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#multilingual-creative-typography-loop">
+<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#4-multilingual-creative-typography-loop">
 <img src="images/04-multilingual-creative-typography-loop.jpg" width="700" alt="Seedance 2.5 Multilingual Creative Typography Loop video prompt preview">
 </a>
 
-**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#multilingual-creative-typography-loop)**
+**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#4-multilingual-creative-typography-loop)**
 
 </div>
 
@@ -385,11 +385,11 @@ Overall style: a 30-second couture brand-level visual blockbuster with strong ci
 
 <div align="center">
 
-<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#haute-couture-dream-bokeh-film">
+<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#5-haute-couture-dream-bokeh-film">
 <img src="images/05-haute-couture-dream-bokeh-film.jpg" width="700" alt="Seedance 2.5 Haute Couture Dream Bokeh Film video prompt preview">
 </a>
 
-**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#haute-couture-dream-bokeh-film)**
+**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#5-haute-couture-dream-bokeh-film)**
 
 </div>
 
@@ -421,11 +421,11 @@ A deep-sea coral reef scene in a tropical underwater world with a blue overall t
 
 <div align="center">
 
-<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#deep-sea-coral-reef-jellyfish-scene">
+<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#6-deep-sea-coral-reef-jellyfish-scene">
 <img src="images/06-deep-sea-coral-reef-jellyfish-scene.jpg" width="700" alt="Seedance 2.5 Deep-Sea Coral Reef Jellyfish Scene video prompt preview">
 </a>
 
-**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#deep-sea-coral-reef-jellyfish-scene)**
+**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#6-deep-sea-coral-reef-jellyfish-scene)**
 
 </div>
 
@@ -457,11 +457,11 @@ Cinematic and premium. A golden desert at dawn. A minimalist white art-museum bu
 
 <div align="center">
 
-<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#floating-desert-museum-cinematic-film">
+<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#7-floating-desert-museum-cinematic-film">
 <img src="images/07-floating-desert-museum-cinematic-film.jpg" width="700" alt="Seedance 2.5 Floating Desert Museum Cinematic Film video prompt preview">
 </a>
 
-**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#floating-desert-museum-cinematic-film)**
+**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#7-floating-desert-museum-cinematic-film)**
 
 </div>
 
@@ -495,11 +495,11 @@ The middle section shows boots landing on mirror-like wet sand, footsteps turnin
 
 <div align="center">
 
-<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#retro-suede-boots-brand-concept-film">
+<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#8-retro-suede-boots-brand-concept-film">
 <img src="images/08-retro-suede-boots-brand-concept-film.jpg" width="700" alt="Seedance 2.5 Retro Suede Boots Brand Concept Film video prompt preview">
 </a>
 
-**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#retro-suede-boots-brand-concept-film)**
+**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#8-retro-suede-boots-brand-concept-film)**
 
 </div>
 
@@ -531,11 +531,11 @@ A short film about the intangible cultural heritage of Peking Opera, cinematic, 
 
 <div align="center">
 
-<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#peking-opera-heritage-short-film">
+<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#9-peking-opera-heritage-short-film">
 <img src="images/09-peking-opera-heritage-short-film.jpg" width="700" alt="Seedance 2.5 Peking Opera Heritage Short Film video prompt preview">
 </a>
 
-**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#peking-opera-heritage-short-film)**
+**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#9-peking-opera-heritage-short-film)**
 
 </div>
 
@@ -572,11 +572,11 @@ Theme: "The Fallen Theater: Oceanic Civilization". Epic sci-fi, Dune x Interstel
 
 <div align="center">
 
-<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#oceanic-civilization-epic-sci-fi-film">
+<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#10-oceanic-civilization-epic-sci-fi-film">
 <img src="images/10-oceanic-civilization-epic-sci-fi-film.jpg" width="700" alt="Seedance 2.5 Oceanic Civilization Epic Sci-Fi Film video prompt preview">
 </a>
 
-**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#oceanic-civilization-epic-sci-fi-film)**
+**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#10-oceanic-civilization-epic-sci-fi-film)**
 
 </div>
 
@@ -608,11 +608,11 @@ Theme: "Mechanical Flower Bloom". Highlight the video-generation model's strengt
 
 <div align="center">
 
-<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#mechanical-flower-bloom-brand-film">
+<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#11-mechanical-flower-bloom-brand-film">
 <img src="images/11-mechanical-flower-bloom-brand-film.jpg" width="700" alt="Seedance 2.5 Mechanical Flower Bloom Brand Film video prompt preview">
 </a>
 
-**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#mechanical-flower-bloom-brand-film)**
+**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#11-mechanical-flower-bloom-brand-film)**
 
 </div>
 
@@ -649,11 +649,11 @@ Shot 5, final stillness (23-30s): Pomegranate juice fills a cup. The surface of 
 
 <div align="center">
 
-<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#silk-road-pomegranate-folk-animation">
+<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#12-silk-road-pomegranate-folk-animation">
 <img src="images/12-silk-road-pomegranate-folk-animation.jpg" width="700" alt="Seedance 2.5 Silk Road Pomegranate Folk Animation video prompt preview">
 </a>
 
-**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#silk-road-pomegranate-folk-animation)**
+**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#12-silk-road-pomegranate-folk-animation)**
 
 </div>
 
@@ -691,11 +691,11 @@ One continuous shot. The camera smoothly follows a person in a black coat (refer
 
 <div align="center">
 
-<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#one-shot-rooms-with-shifting-worlds">
+<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#13-one-shot-rooms-with-shifting-worlds">
 <img src="images/13-one-shot-rooms-with-shifting-worlds.jpg" width="700" alt="Seedance 2.5 One-Shot Rooms With Shifting Worlds video prompt preview">
 </a>
 
-**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#one-shot-rooms-with-shifting-worlds)**
+**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#13-one-shot-rooms-with-shifting-worlds)**
 
 </div>
 
@@ -731,11 +731,11 @@ Finale: the ball lands at the center of a global field where people from differe
 
 <div align="center">
 
-<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#three-thousand-year-football-history">
+<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#14-three-thousand-year-football-history">
 <img src="images/14-three-thousand-year-football-history.jpg" width="700" alt="Seedance 2.5 Three-Thousand-Year Football History video prompt preview">
 </a>
 
-**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#three-thousand-year-football-history)**
+**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#14-three-thousand-year-football-history)**
 
 </div>
 
@@ -774,11 +774,11 @@ A 30-second tutorial video for installing and using a capsule coffee machine.
 
 <div align="center">
 
-<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#capsule-coffee-machine-tutorial">
+<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#15-capsule-coffee-machine-tutorial">
 <img src="images/15-capsule-coffee-machine-tutorial.jpg" width="700" alt="Seedance 2.5 Capsule Coffee Machine Tutorial video prompt preview">
 </a>
 
-**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#capsule-coffee-machine-tutorial)**
+**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#15-capsule-coffee-machine-tutorial)**
 
 </div>
 
@@ -816,11 +816,11 @@ Core instruction: a 26-second one-shot narrative short film, stable follow shot,
 
 <div align="center">
 
-<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#lonely-crowd-one-shot-through-seasons">
+<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#16-lonely-crowd-one-shot-through-seasons">
 <img src="images/16-lonely-crowd-one-shot-through-seasons.jpg" width="700" alt="Seedance 2.5 Lonely Crowd One-Shot Through Seasons video prompt preview">
 </a>
 
-**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#lonely-crowd-one-shot-through-seasons)**
+**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#16-lonely-crowd-one-shot-through-seasons)**
 
 </div>
 
@@ -852,11 +852,11 @@ Bright, colorful advertising-film style. Fruit-flavored cookies are the main sub
 
 <div align="center">
 
-<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#fruit-cookie-commercial">
+<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#17-fruit-cookie-commercial">
 <img src="images/17-fruit-cookie-commercial.jpg" width="700" alt="Seedance 2.5 Fruit Cookie Commercial video prompt preview">
 </a>
 
-**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#fruit-cookie-commercial)**
+**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#17-fruit-cookie-commercial)**
 
 </div>
 
@@ -895,11 +895,11 @@ Desert Horned Lizard Grapefruit Ad is a Seedance 2.5 reference generation case t
 
 <div align="center">
 
-<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#desert-horned-lizard-grapefruit-ad">
+<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#18-desert-horned-lizard-grapefruit-ad">
 <img src="images/18-desert-horned-lizard-grapefruit-ad.jpg" width="700" alt="Seedance 2.5 Desert Horned Lizard Grapefruit Ad video prompt preview">
 </a>
 
-**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#desert-horned-lizard-grapefruit-ad)**
+**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#18-desert-horned-lizard-grapefruit-ad)**
 
 </div>
 
@@ -936,11 +936,11 @@ A 30-second cinematic youth racing story in 2D animation style. The protagonist 
 
 <div align="center">
 
-<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#youth-racing-short-film">
+<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#19-youth-racing-short-film">
 <img src="images/19-youth-racing-short-film.jpg" width="700" alt="Seedance 2.5 Youth Racing Short Film video prompt preview">
 </a>
 
-**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#youth-racing-short-film)**
+**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#19-youth-racing-short-film)**
 
 </div>
 
@@ -983,11 +983,11 @@ A one-shot FPV drone first-person video, 33 seconds of continuous long take with
 
 <div align="center">
 
-<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#fpv-multilingual-landscape-flight">
+<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#20-fpv-multilingual-landscape-flight">
 <img src="images/20-fpv-multilingual-landscape-flight.jpg" width="700" alt="Seedance 2.5 FPV Multilingual Landscape Flight video prompt preview">
 </a>
 
-**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#fpv-multilingual-landscape-flight)**
+**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#20-fpv-multilingual-landscape-flight)**
 
 </div>
 
@@ -1026,11 +1026,11 @@ Live-action realistic style, fast editing, cinematic, 4K, 24 fps, warm natural l
 
 <div align="center">
 
-<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#global-flower-thank-you-film">
+<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#21-global-flower-thank-you-film">
 <img src="images/21-global-flower-thank-you-film.jpg" width="700" alt="Seedance 2.5 Global Flower Thank-You Film video prompt preview">
 </a>
 
-**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#global-flower-thank-you-film)**
+**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#21-global-flower-thank-you-film)**
 
 </div>
 
@@ -1062,11 +1062,11 @@ Keep the character, jungle environment, camera movement, composition, action rhy
 
 <div align="center">
 
-<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#energy-bow-jungle-edit">
+<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#22-energy-bow-jungle-edit">
 <img src="images/22-energy-bow-jungle-edit.jpg" width="700" alt="Seedance 2.5 Energy Bow Jungle Edit video prompt preview">
 </a>
 
-**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#energy-bow-jungle-edit)**
+**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#22-energy-bow-jungle-edit)**
 
 </div>
 
@@ -1098,11 +1098,11 @@ Remove the drone and the lower-left foreground rail/vehicle edge from <<<video_1
 
 <div align="center">
 
-<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#drone-removal-safari-cleanup">
+<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#23-drone-removal-safari-cleanup">
 <img src="images/23-drone-removal-safari-cleanup.jpg" width="700" alt="Seedance 2.5 Drone Removal Safari Cleanup video prompt preview">
 </a>
 
-**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#drone-removal-safari-cleanup)**
+**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#23-drone-removal-safari-cleanup)**
 
 </div>
 
@@ -1134,11 +1134,11 @@ Transform the plain two-person martial-arts video <<<video_1_1>>> into an empty-
 
 <div align="center">
 
-<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#medieval-duel-style-transfer">
+<a href="https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#24-medieval-duel-style-transfer">
 <img src="images/24-medieval-duel-style-transfer.jpg" width="700" alt="Seedance 2.5 Medieval Duel Style Transfer video prompt preview">
 </a>
 
-**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#medieval-duel-style-transfer)**
+**[Watch on Kinovi ->](https://kinovi.ai/blogs/awesome-seedance-2-5-video-prompts#24-medieval-duel-style-transfer)**
 
 </div>
 
