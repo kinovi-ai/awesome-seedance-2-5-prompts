@@ -1099,6 +1099,43 @@ Transform the plain two-person martial-arts video <<<video_1_1>>> into an empty-
 
 ---
 
+### No. 25: Amber Perfume Bottle — First Frame and Image Reference
+
+![Seedance 2.5](https://img.shields.io/badge/model-Seedance%202.5-blue)
+
+#### 📖 Description
+
+One AI-generated product image, one shared prompt, and two recorded Seedance 2.5 requests: first-frame mode and image-reference mode. The first-frame result keeps the bottle and cap visible in the reviewed frames. The reference result crops the top of the cap, despite the prompt asking for the whole bottle. Both original outputs are retained.
+
+This is a limited worked example, not a controlled benchmark. The returned seeds and aspect ratios differ, with only one request per mode; the pair does not establish that the input mode caused the observed difference.
+
+#### 📝 Prompt
+
+```text
+One continuous four-second shot. The amber perfume bottle stays on the black stone plinth. The camera slowly tracks sideways to reveal the glass edge while the bottle remains fully visible. A thin wisp of smoke drifts in the background. Preserve the bottle shape, cap, amber glass, warm side lighting and dark setting. No cuts, no new objects, no text.
+```
+
+#### 🎬 Source Image and Videos
+
+[Source image: 1536 × 1024 AI-generated WebP](https://superseedance.si/media/original-product.webp)
+
+- [Original first-frame output](https://superseedance.si/media/seedance-input-pair-20261024/first-frame.mp4) — 794 × 530, 4.042 seconds; bottle and cap visible.
+- [Original reference-image output](https://superseedance.si/media/seedance-input-pair-20261024/reference.mp4) — 854 × 480, 4.042 seconds; cap top cropped.
+- [Prompt, recorded settings, observations and limitations](https://superseedance.si/en/blog/seedance-first-frame-vs-reference)
+
+#### 📌 Details
+
+- **Source:** SuperSeedance, an independent site unaffiliated with ByteDance. Contributed on behalf of the source site's owner; this is not an official model demonstration.
+- **Category:** First Frame / Reference Generation
+- **Reference Inputs:** One source image, reused for both requests.
+- **Requested settings:** Seedance 2.5; 4 seconds; 480p; adaptive aspect ratio; native audio off; draft off.
+- **Returned model identifier:** `doubao-seedance-2-5-260628`.
+- **Returned seeds:** 3572 (first frame), 28697 (reference).
+- **Review scope:** The source record reports checking 16 sampled frames plus first/middle/last frames per clip.
+- **Review focus:** Inspect the entire bottle, cap, framing and actual output dimensions. Do not infer a success rate or a causal advantage from this pair.
+
+---
+
 <a id="how-to-contribute"></a>
 ## 🤝 How to Contribute
 
